@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
         elif 'play song' and 'play music'and 'song' in query:
             rand = random.randint(1, 4)
-            music_dir = 'F:\song'
+            music_dir = 'F:\song'    #Give Your Song File Path
             songs = os.listdir(music_dir)
             #print(songs)    
             os.startfile(os.path.join(music_dir, songs[rand]))
