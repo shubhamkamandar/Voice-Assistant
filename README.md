@@ -5,6 +5,7 @@ This project demonstrates how to use Python to convert audio into text using the
 Speech recognition technology is essential for developing voice-controlled applications such as virtual assistants (e.g., Alexa, Siri) and various other applications where voice input is required.
 
 Features
+
 Audio to Text Conversion: Utilizes the SpeechRecognition API to convert spoken words into written text.
 Voice Command Handling: Integrate with virtual assistants to handle voice commands.
 Language Support: Supports multiple languages and dialects for broad applicability.
